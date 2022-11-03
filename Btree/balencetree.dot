@@ -1,0 +1,15 @@
+digraph {
+node[shape=plaintext]
+n3[label = " 3,6,10,16"]
+n1[label = " 1,2"]
+n3 -> n1
+n4[label = " 4,5"]
+n3 -> n4
+n7[label = " 7,8,9"]
+n3 -> n7
+n11[label = " 11,13"]
+n3 -> n11
+n17[label = " 17,20"]
+n3 -> n17
+}
+
